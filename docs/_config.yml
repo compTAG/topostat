@@ -2,7 +2,7 @@
 title:               TopoStat
 tagline:             'Statistical Approaches to Topological Data Analysis that Address Questions in Complex Data'
 description:         'This project...'
-url:                 http://lanyon.getpoole.com
+url:                 'https://comptag.github.io/topostat/'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
